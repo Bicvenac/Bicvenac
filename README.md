@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mí
 Soy un entusiasta de la tecnología y el desarrollo, enfocado en aprender y construir soluciones eficientes. Actualmente estoy expandiendo mis habilidades en GitHub y el mundo del código abierto.
 
-- 🔭 **Actualmente trabajando en:** Mis primeros proyectos de programación.
+- 🔭 **Actualmente trabajando en:** Programación con IA.
 - 🌱 **Aprendiendo:** Python, JavaScript y metodologías ágiles.
 - ⚡ **Dato curioso:** Me gusta debatir sobre las mejores prácticas de software y siempre busco la respuesta más óptima.
 
