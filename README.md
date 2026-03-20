@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Alexander Cabrera 👋
 
-<!--
-**Bicvenac/Bicvenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
+Soy un entusiasta de la tecnología y el desarrollo, enfocado en aprender y construir soluciones eficientes. Actualmente estoy expandiendo mis habilidades en GitHub y el mundo del código abierto.
 
-Here are some ideas to get you started:
+- 🔭 **Actualmente trabajando en:** Mis primeros proyectos de programación.
+- 🌱 **Aprendiendo:** Python, JavaScript y metodologías ágiles.
+- ⚡ **Dato curioso:** Me gusta debatir sobre las mejores prácticas de software y siempre busco la respuesta más óptima.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 Estadísticas de GitHub
+![Estadísticas de Alexander](https://github-readme-stats.vercel.app/api?username=Bicvenac&show_icons=true&theme=radical)
+
+---
+
+### 📫 Cómo contactarme
+- **Whatsaapo:** +584242330068
+- **Email:** bicvenac@gmail.com
