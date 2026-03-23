@@ -16,7 +16,7 @@ Soy un apasionado de la tecnología y el desarrollo, enfocado en construir soluc
 ### 🛠️ Tecnologías y Herramientas (Skills)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlserver,mysql,docker,kubernetes,postman" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,docker,kubernetes,postman" />
   </a>
 </p>
 
